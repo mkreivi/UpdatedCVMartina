@@ -5,6 +5,7 @@ import {
   DrawerBody,
   DrawerCloseButton,
   DrawerContent,
+  DrawerFooter,
   DrawerHeader,
   DrawerOverlay,
   Flex,
@@ -61,20 +62,38 @@ function Header() {
                 <DrawerOverlay />
                 <DrawerContent>
                   <DrawerCloseButton color="#494E5F" mt={2} />
-                  <DrawerHeader>Menu</DrawerHeader>
+                  <DrawerHeader>Meny</DrawerHeader>
                   <DrawerBody>
-                    <List spacing={3}>
+                    <List spacing={5}>
                       <ListItem>
-                        <Link href="#">Home</Link>
+                        <Link href="#">Start</Link>
                       </ListItem>
                       <ListItem>
-                        <Link href="#">About</Link>
+                        <Link href="#">Portfolio</Link>
                       </ListItem>
                       <ListItem>
-                        <Link href="#">Contact</Link>
+                        <Link href="#">Kontakt</Link>
                       </ListItem>
                     </List>
                   </DrawerBody>
+                  <DrawerFooter>
+                    <Link>
+                      <Image
+                        src="src/assets/iconGithub.png"
+                        borderRadius="full"
+                        boxSize="80px"
+                        objectFit="cover"
+                      />
+                    </Link>
+                    <Link>
+                      <Image
+                        src="src/assets/iconLinkedIn.png"
+                        borderRadius="full"
+                        boxSize="80px"
+                        objectFit="cover"
+                      />
+                    </Link>
+                  </DrawerFooter>
                 </DrawerContent>
               </Box>
             </Drawer>
