@@ -1,8 +1,11 @@
+import { Box } from "@chakra-ui/react";
 function Header() {
   return (
-    <header>
-      <h1>Martina Kreivi</h1>
-    </header>
+    <Box>
+      <Box>Meny</Box>
+      <Box>Martina</Box>
+      <Box>Sve-Eng</Box>
+    </Box>
   );
 }
 
