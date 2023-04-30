@@ -1,3 +1,4 @@
+import { HamburgerIcon } from "@chakra-ui/icons";
 import {
   Box,
   Flex,
@@ -11,7 +12,10 @@ function Header() {
   return (
     <Box bg="#494E5F" h="170px">
       <Flex justify={"space-between"} align={"center"}>
-        <Box p="20px">Meny</Box>
+        <Box p="20px">
+          Meny
+          <HamburgerIcon boxSize={10} color="#FFE7D4" />
+        </Box>
         <Box>
           <Image src="src/assets/LogoMartina.svg" />
         </Box>
