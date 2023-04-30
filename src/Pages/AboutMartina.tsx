@@ -1,4 +1,8 @@
 function AboutMartina() {
-  return <main></main>;
+  return (
+    <main>
+      <div>About Martina</div>
+    </main>
+  );
 }
 export default AboutMartina;

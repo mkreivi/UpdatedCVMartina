@@ -1,4 +1,8 @@
 function Portfolio() {
-  return <main></main>;
+  return (
+    <main>
+      <div>Portfolio</div>
+    </main>
+  );
 }
 export default Portfolio;
