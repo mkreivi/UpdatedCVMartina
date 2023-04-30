@@ -57,9 +57,10 @@ function Header() {
               placement="left"
               onClose={handleDrawerClose}
             >
-              <DrawerOverlay>
+              <Box color="#494E5F" bg="#494E5F">
+                <DrawerOverlay />
                 <DrawerContent>
-                  <DrawerCloseButton color="#FFE7D4" mt={2} />
+                  <DrawerCloseButton color="#494E5F" mt={2} />
                   <DrawerHeader>Menu</DrawerHeader>
                   <DrawerBody>
                     <List spacing={3}>
@@ -75,7 +76,7 @@ function Header() {
                     </List>
                   </DrawerBody>
                 </DrawerContent>
-              </DrawerOverlay>
+              </Box>
             </Drawer>
 
             <Box p={2}>Meny</Box>
