@@ -1,35 +1,93 @@
-import { HamburgerIcon } from "@chakra-ui/icons";
+import { CloseIcon, HamburgerIcon } from "@chakra-ui/icons";
 import {
   Box,
+  Drawer,
+  DrawerBody,
+  DrawerCloseButton,
+  DrawerContent,
+  DrawerHeader,
+  DrawerOverlay,
   Flex,
   FormControl,
   FormLabel,
   Image,
+  Link,
+  List,
+  ListItem,
   Switch,
 } from "@chakra-ui/react";
+import { useState } from "react";
 
 function Header() {
+  const [isDrawerOpen, setIsDrawerOpen] = useState(false);
+
+  const handleDrawerOpen = () => {
+    setIsDrawerOpen(true);
+  };
+
+  const handleDrawerClose = () => {
+    setIsDrawerOpen(false);
+  };
+
   return (
-    // HELA HEADERN
-    <Box h="170px" bg="#494E5F" color="#FFE7D4">
-      <Flex justify={"space-between"} align={"center"}>
-        <Box p="20px" w="160px">
-          <FormControl display="flex" alignItems="center">
-            <FormLabel htmlFor="Menu" mb="0">
-              Meny
-              <HamburgerIcon ml="7px" boxSize={6} color="#FFE7D4" />
-            </FormLabel>
-          </FormControl>
+    <Box bg="#494E5F" h="170px" color="#FFE7D4">
+      <Flex justify={"space-between"} align={"center"} px={10}>
+        <Box>
+          <Flex align="center">
+            <Box p={2}>
+              {isDrawerOpen ? (
+                <CloseIcon
+                  boxSize={8}
+                  color="#FFE7D4"
+                  onClick={handleDrawerClose}
+                  cursor="pointer"
+                />
+              ) : (
+                <HamburgerIcon
+                  boxSize={8}
+                  color="#FFE7D4"
+                  onClick={handleDrawerOpen}
+                  cursor="pointer"
+                />
+              )}
+            </Box>
+
+            <Drawer
+              isOpen={isDrawerOpen}
+              placement="left"
+              onClose={handleDrawerClose}
+            >
+              <DrawerOverlay>
+                <DrawerContent>
+                  <DrawerCloseButton color="#FFE7D4" mt={2} />
+                  <DrawerHeader>Menu</DrawerHeader>
+                  <DrawerBody>
+                    <List spacing={3}>
+                      <ListItem>
+                        <Link href="#">Home</Link>
+                      </ListItem>
+                      <ListItem>
+                        <Link href="#">About</Link>
+                      </ListItem>
+                      <ListItem>
+                        <Link href="#">Contact</Link>
+                      </ListItem>
+                    </List>
+                  </DrawerBody>
+                </DrawerContent>
+              </DrawerOverlay>
+            </Drawer>
+
+            <Box p={2}>Meny</Box>
+          </Flex>
+        </Box>
+
+        <Box mx="auto">
+          <Image src="src/assets/LogoMartina.svg" />
         </Box>
 
         <Flex align={"center"}>
-          <Box mx="auto">
-            <Image src="src/assets/LogoMartina.svg" />
-          </Box>
-        </Flex>
-
-        <Flex align={"center"}>
-          <Box p="20px" w="160px">
+          <Box>
             <FormControl display="flex" alignItems="center">
               <FormLabel htmlFor="Swe-Eng language" mb="0">
                 Sve - Eng

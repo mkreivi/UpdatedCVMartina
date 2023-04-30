@@ -7,7 +7,6 @@ function App() {
   return (
     <Box h="170px">
       <Header />
-      <h1>Hello World</h1>
       <main>
         <Outlet />
       </main>
