@@ -1,4 +1,4 @@
-import { ChakraProvider } from "@chakra-ui/react";
+import { ChakraProvider, extendTheme } from "@chakra-ui/react";
 import React from "react";
 import ReactDOM from "react-dom/client";
 import {
@@ -12,6 +12,19 @@ import AboutMartina from "./Pages/AboutMartina.tsx";
 import Portfolio from "./Pages/Portfolio.tsx";
 import StartPage from "./Pages/StartPage.tsx";
 import "./main.css";
+
+export const theme = extendTheme({
+  colors: {
+    brand: {
+      100: "#494E5F",
+      200: "#CCCCCC",
+      300: "#F5F5F5",
+      400: "#FFFFFF",
+      500: "#FFE7D4",
+      600: "#F9BCBC",
+    },
+  },
+});
 
 const router = createBrowserRouter(
   createRoutesFromElements(
