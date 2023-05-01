@@ -10,7 +10,7 @@ import {
   Stack,
   Text,
 } from "@chakra-ui/react";
-
+// KORPENSHANTVERKSBUTIK
 function Portfolio() {
   return (
     <Box p="30px">
@@ -38,6 +38,73 @@ function Portfolio() {
           <Card m="10px" variant="outline">
             <Image
               p="10px"
+              src="src/assets/TakenBakeStartSite.png"
+              objectFit="cover"
+              h="266px"
+            />
+            <Stack>
+              <CardBody>
+                <Button
+                  borderRadius="20px"
+                  variant="solid"
+                  bg="#ECB5FF"
+                  color="#F5F5F5"
+                >
+                  JAVASCRIPT GRUND
+                </Button>
+                <Heading mt="10px" size="md">
+                  Skapa ett spel
+                </Heading>
+                <Text py="2">
+                  Slutprojekt i kursen JavaScript Grund där jag tillsammans med
+                  4 klasskamrater skapat ett spel.
+                </Text>
+                <Text py="1">November 2022</Text>
+              </CardBody>
+              <CardFooter>
+                <Button variant="solid" bg="#494E5F" color="#F5F5F5">
+                  Se mer
+                </Button>
+              </CardFooter>
+            </Stack>
+          </Card>
+          <Card m="10px" variant="outline">
+            <Image
+              p="10px"
+              src="src/assets/MartinaLogoGrey2.svg"
+              objectFit="cover"
+              h="266px"
+            />
+            <Stack>
+              <CardBody>
+                <Button
+                  borderRadius="20px"
+                  variant="solid"
+                  bg="#ECB5FF"
+                  color="#F5F5F5"
+                >
+                  JAVASCRIPT GRUND
+                </Button>
+                <Heading mt="10px" size="md">
+                  Interaktivt CV
+                </Heading>
+                <Text py="2">
+                  Skolprojekt där jag fick i uppgift att skapa en hemsida om mig
+                  själv i form av ett interaktivt CV som även innehåller projekt
+                  jag gjort.
+                </Text>
+                <Text py="1">November 2022</Text>
+              </CardBody>
+              <CardFooter>
+                <Button variant="solid" bg="#494E5F" color="#F5F5F5">
+                  Se mer
+                </Button>
+              </CardFooter>
+            </Stack>
+          </Card>
+          <Card m="10px" variant="outline">
+            <Image
+              p="10px"
               src="src/assets/LisebergUXUI.png"
               objectFit="cover"
             />
@@ -55,8 +122,8 @@ function Portfolio() {
                   Gränssnittsanalys - Förbättra UX/UI
                 </Heading>
                 <Text py="2">
-                  Skolprojekt där jag förbättrat UX på Lisebergs hemsida i
-                  Figma.
+                  Skolprojekt i kursen UX/UI där jag förbättrat UX:et på
+                  Lisebergs hemsida under halloween 2022 i Figma.
                 </Text>
                 <Text py="1">Oktober 2022</Text>
               </CardBody>
@@ -67,6 +134,7 @@ function Portfolio() {
               </CardFooter>
             </Stack>
           </Card>
+
           <Card m="10px" variant="outline">
             <Image
               p="10px"
