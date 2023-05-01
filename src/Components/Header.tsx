@@ -78,7 +78,7 @@ function Header() {
                   </DrawerBody>
                   <DrawerFooter display="flex" justifyContent="space-evenly">
                     <Flex>
-                      <Link>
+                      <Link href="mailto:martina.kreivi@medieinstitutet.se">
                         <Image
                           src="src/assets/MailGrey.png"
                           borderRadius="full"
@@ -88,7 +88,7 @@ function Header() {
                           m="5px"
                         />
                       </Link>
-                      <Link>
+                      <Link href="https://github.com/mkreivi">
                         <Image
                           src="src/assets/GithubGrey.png"
                           borderRadius="full"
@@ -98,7 +98,7 @@ function Header() {
                           m="5px"
                         />
                       </Link>
-                      <Link>
+                      <Link href="https://www.linkedin.com/in/martina-kreivi-263032b9/">
                         <Image
                           src="src/assets/LinkedinGrey.png"
                           borderRadius="full"
