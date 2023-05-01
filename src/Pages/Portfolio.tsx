@@ -88,7 +88,7 @@ function Portfolio() {
                   bg="#B06CC8"
                   color="#F5F5F5"
                 >
-                  JAVASCRIPT Fördjupning
+                  JavaScript Fördjupning
                 </Button>
                 <Heading mt="10px" size="md">
                   Webbshopp - Grupparbete
@@ -98,6 +98,39 @@ function Portfolio() {
                   valfritt innehåll. Vi skapade smyckesshoppen MAJT.
                 </Text>
                 <Text py="1">April 2023</Text>
+              </CardBody>
+              <CardFooter>
+                <Button variant="solid" bg="#494E5F" color="#F5F5F5">
+                  Se mer
+                </Button>
+              </CardFooter>
+            </Stack>
+          </Card>
+          <Card m="10px" variant="outline">
+            <Image
+              p="10px"
+              src="src/assets/Jokester.png"
+              objectFit="cover"
+              h="266px"
+            />
+            <Stack>
+              <CardBody>
+                <Button
+                  borderRadius="20px"
+                  variant="solid"
+                  bg="#B06CC8"
+                  color="#F5F5F5"
+                >
+                  JavaScript Fördjupning
+                </Button>
+                <Heading mt="10px" size="md">
+                  Miniprojekt - Grupparbete
+                </Heading>
+                <Text py="2">
+                  Jokester - Skolprojekt där vi fick i uppgift att skapa en
+                  webb-app. Vår app bygger på ett skämt API.
+                </Text>
+                <Text py="1">Mars 2023</Text>
               </CardBody>
               <CardFooter>
                 <Button variant="solid" bg="#494E5F" color="#F5F5F5">
@@ -121,7 +154,7 @@ function Portfolio() {
                   bg="#cd5b9f"
                   color="#F5F5F5"
                 >
-                  JAVASCRIPT GRUND
+                  JavaScript Grund
                 </Button>
                 <Heading mt="10px" size="md">
                   Skapa ett spel - Grupparbete
@@ -154,7 +187,7 @@ function Portfolio() {
                   bg="#cd5b9f"
                   color="#F5F5F5"
                 >
-                  JAVASCRIPT GRUND
+                  JavaScript Grund
                 </Button>
                 <Heading mt="10px" size="md">
                   Interaktivt CV
