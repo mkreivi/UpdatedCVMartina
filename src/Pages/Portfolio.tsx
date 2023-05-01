@@ -38,6 +38,72 @@ function Portfolio() {
           <Card m="10px" variant="outline">
             <Image
               p="10px"
+              src="src/assets/FoxTales.png"
+              objectFit="cover"
+              h="266px"
+            />
+            <Stack>
+              <CardBody>
+                <Button
+                  borderRadius="20px"
+                  variant="solid"
+                  bg="#5e76bf"
+                  color="#F5F5F5"
+                >
+                  Dynamisk webbutveckling
+                </Button>
+                <Heading mt="10px" size="md">
+                  Användarbaserad plattform - Grupparbete
+                </Heading>
+                <Text py="2">
+                  FoxTales - En användarbaserad plattform där användare kan
+                  signa upp, logga in och publicera textbaserade inlägg.
+                </Text>
+                <Text py="1">April 2023</Text>
+              </CardBody>
+              <CardFooter>
+                <Button variant="solid" bg="#494E5F" color="#F5F5F5">
+                  Se mer
+                </Button>
+              </CardFooter>
+            </Stack>
+          </Card>
+          <Card m="10px" variant="outline">
+            <Image
+              p="10px"
+              src="src/assets/MAJTWebbshop.png"
+              objectFit="cover"
+              h="266px"
+            />
+            <Stack>
+              <CardBody>
+                <Button
+                  borderRadius="20px"
+                  variant="solid"
+                  bg="#B06CC8"
+                  color="#F5F5F5"
+                >
+                  JAVASCRIPT Fördjupning
+                </Button>
+                <Heading mt="10px" size="md">
+                  Webbshopp - Grupparbete
+                </Heading>
+                <Text py="2">
+                  Skolprojekt där jag fick i uppgift att skapa en webbshop med
+                  valfritt innehåll. Vi skapade smyckesshoppen MAJT.
+                </Text>
+                <Text py="1">April 2023</Text>
+              </CardBody>
+              <CardFooter>
+                <Button variant="solid" bg="#494E5F" color="#F5F5F5">
+                  Se mer
+                </Button>
+              </CardFooter>
+            </Stack>
+          </Card>
+          <Card m="10px" variant="outline">
+            <Image
+              p="10px"
               src="src/assets/TakenBakeStartSite.png"
               objectFit="cover"
               h="266px"
@@ -47,13 +113,13 @@ function Portfolio() {
                 <Button
                   borderRadius="20px"
                   variant="solid"
-                  bg="#ECB5FF"
+                  bg="#cd5b9f"
                   color="#F5F5F5"
                 >
                   JAVASCRIPT GRUND
                 </Button>
                 <Heading mt="10px" size="md">
-                  Skapa ett spel
+                  Skapa ett spel - Grupparbete
                 </Heading>
                 <Text py="2">
                   Slutprojekt i kursen JavaScript Grund där jag tillsammans med
@@ -80,7 +146,7 @@ function Portfolio() {
                 <Button
                   borderRadius="20px"
                   variant="solid"
-                  bg="#ECB5FF"
+                  bg="#cd5b9f"
                   color="#F5F5F5"
                 >
                   JAVASCRIPT GRUND
