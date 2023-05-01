@@ -66,13 +66,13 @@ function Header() {
                   <DrawerBody>
                     <List spacing={5}>
                       <ListItem>
-                        <Link href="#">Start</Link>
+                        <Link href="/">Start</Link>
                       </ListItem>
                       <ListItem>
-                        <Link href="#">Portfolio</Link>
+                        <Link href="/Portfolio">Portfolio</Link>
                       </ListItem>
                       <ListItem>
-                        <Link href="#">Kontakt</Link>
+                        <Link href="/Contact">Kontakt</Link>
                       </ListItem>
                     </List>
                   </DrawerBody>
