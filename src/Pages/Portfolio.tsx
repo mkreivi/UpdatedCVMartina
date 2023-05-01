@@ -15,7 +15,14 @@ function Portfolio() {
   return (
     <Box p="30px">
       <Text bg="#F5F5F5" fontSize={["12px", "16px", "20px"]} p="10px">
-        <Box bg="#FFE7D4" h="50px" display="flex" alignItems="center" p="20px">
+        <Box
+          fontSize="28px" // Byt storlek på denna!
+          bg="#FFE7D4"
+          h="50px"
+          display="flex"
+          alignItems="center"
+          p="20px"
+        >
           Portfolio
         </Box>
         <Box
@@ -25,9 +32,7 @@ function Portfolio() {
           alignItems="center"
           justifyContent="space-between"
         >
-          <Text className="Introduction">
-            Här har jag samlat projekt jag gjort
-          </Text>
+          <Text className="Introduction"></Text>
         </Box>
         <SimpleGrid
           columns={[1, 2]}
