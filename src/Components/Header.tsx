@@ -76,23 +76,39 @@ function Header() {
                       </ListItem>
                     </List>
                   </DrawerBody>
-                  <DrawerFooter>
-                    <Link>
-                      <Image
-                        src="src/assets/iconGithub.png"
-                        borderRadius="full"
-                        boxSize="80px"
-                        objectFit="cover"
-                      />
-                    </Link>
-                    <Link>
-                      <Image
-                        src="src/assets/iconLinkedIn.png"
-                        borderRadius="full"
-                        boxSize="80px"
-                        objectFit="cover"
-                      />
-                    </Link>
+                  <DrawerFooter display="flex" justifyContent="space-evenly">
+                    <Flex>
+                      <Link>
+                        <Image
+                          src="src/assets/MailGrey.png"
+                          borderRadius="full"
+                          boxSize="80px"
+                          objectFit="cover"
+                          p="7px"
+                          m="5px"
+                        />
+                      </Link>
+                      <Link>
+                        <Image
+                          src="src/assets/GithubGrey.png"
+                          borderRadius="full"
+                          boxSize="80px"
+                          objectFit="cover"
+                          p="7px"
+                          m="5px"
+                        />
+                      </Link>
+                      <Link>
+                        <Image
+                          src="src/assets/LinkedinGrey.png"
+                          borderRadius="full"
+                          boxSize="80px"
+                          objectFit="cover"
+                          p="7px"
+                          m="5px"
+                        />
+                      </Link>
+                    </Flex>
                   </DrawerFooter>
                 </DrawerContent>
               </Box>
