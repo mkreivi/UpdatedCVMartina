@@ -94,7 +94,7 @@ function Portfolio() {
                   Webbshopp - Grupparbete
                 </Heading>
                 <Text py="2">
-                  Skolprojekt där jag fick i uppgift att skapa en webbshop med
+                  Skolprojekt där vi fick i uppgift att skapa en webbshop med
                   valfritt innehåll. Vi skapade smyckesshoppen MAJT.
                 </Text>
                 <Text py="1">April 2023</Text>
