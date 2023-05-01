@@ -72,6 +72,9 @@ function Header() {
                         <Link href="/Portfolio">Portfolio</Link>
                       </ListItem>
                       <ListItem>
+                        <Link href="/Education">Utbildning</Link>
+                      </ListItem>
+                      <ListItem>
                         <Link href="/Contact">Kontakt</Link>
                       </ListItem>
                     </List>

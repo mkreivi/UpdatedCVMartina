@@ -10,6 +10,7 @@ import {
 import App from "./App.tsx";
 import AboutMartina from "./Pages/AboutMartina.tsx";
 import Contact from "./Pages/Contact.tsx";
+import Education from "./Pages/Education.tsx";
 import Portfolio from "./Pages/Portfolio.tsx";
 import StartPage from "./Pages/StartPage.tsx";
 import "./main.css";
@@ -33,6 +34,7 @@ const router = createBrowserRouter(
       <Route index element={<StartPage />} />
       <Route path="/aboutMartina" element={<AboutMartina />} />
       <Route path="/portfolio" element={<Portfolio />} />
+      <Route path="/education" element={<Education />} />
       <Route path="/contact" element={<Contact />} />
       <Route path="*" element={<h2> 404 page not found</h2>} />
     </Route>
