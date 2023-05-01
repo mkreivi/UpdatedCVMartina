@@ -43,7 +43,7 @@ function Portfolio() {
           <Card m="10px" variant="outline">
             <Image
               p="10px"
-              src="src/assets/FoxTales.png"
+              src="src/assets/FoxTalesB.png"
               objectFit="cover"
               h="266px"
             />

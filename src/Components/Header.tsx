@@ -119,7 +119,9 @@ function Header() {
         </Box>
 
         <Box mx="auto">
-          <Image src="src/assets/LogoMartina.svg" />
+          <Link href="/">
+            <Image src="src/assets/LogoMartina.svg" />
+          </Link>
         </Box>
 
         <Flex align={"center"}>
