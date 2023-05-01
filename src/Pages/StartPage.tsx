@@ -86,11 +86,12 @@ function StartPage() {
             <Box mr="50px" className="ThisOne">
               <Image
                 className="Picture"
-                src="src/assets/MartinaK.PNG"
+                src="src/assets/MartinaK2.PNG"
                 borderRadius="full"
-                boxSize="180px"
+                boxSize="600px"
                 objectFit="cover"
                 m="10px"
+                h="180px"
               />
             </Box>
             <Text
@@ -102,13 +103,20 @@ function StartPage() {
               alignItems="center"
               justifyContent="space-between"
               fontStyle="italic"
+              textAlign="right"
             >
               Varför FrontEnd Development?
               <br />
               <br />
-              Under gymnasiet 2005-2008 läste jag IT/Media programmet och
-              fastnade för webbdesign och webbutveckling. Sedan dess har jag
-              drömmt om att jobba med just detta men
+              Jag har alltid älskat att skapa och vara kreativ. Under gymnasiet
+              år 2005-2008 läste jag IT/Media programmet och fastnade för
+              webbutveckling. Detta har legat och grott och drömmen om att en
+              dag kunna arbeta med detta växte sig bara större. <br />
+              Efter närmare 15 år inom butik och restaurang hittade jag min
+              drömutbildning, FrontEnd Developer på Medieinstitutet i Göteborg.
+              Nu får jag dagligen skapa, utveckla och modernisera webbsidor och
+              appar och ser fram emot att snart komma ut och arbeta med detta på
+              riktigt!
             </Text>
           </Flex>
         </Text>
