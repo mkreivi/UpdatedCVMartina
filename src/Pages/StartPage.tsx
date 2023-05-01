@@ -111,7 +111,8 @@ function StartPage() {
               Jag har alltid älskat att skapa och vara kreativ. Under gymnasiet
               år 2005-2008 läste jag IT/Media programmet och fastnade för
               webbutveckling. Detta har legat och grott och drömmen om att en
-              dag kunna arbeta med detta växte sig bara större. <br />
+              dag kunna arbeta med detta växte sig större. <br />
+              <br />
               Efter närmare 15 år inom butik och restaurang hittade jag min
               drömutbildning, FrontEnd Developer på Medieinstitutet i Göteborg.
               Nu får jag dagligen skapa, utveckla och modernisera webbsidor och
