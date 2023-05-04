@@ -41,11 +41,11 @@ function EducationEng() {
               m="0px, 30px"
               textAlign="center"
             >
-              Kurser jag läst när jag påbörjar min LIA i september 2024 <br />
+              Cleard courses when i start my LIA in september 2024 <br />
               <br />
-              HTML/CSS • UX/Usability • JavaScript Grund • JavaScript
-              Fördjupning • Dynamisk Webbutveckling • Grafiska verktyg för
-              gränssnittsdesign • Projekt med agila metoder <br />
+              HTML/CSS • UX/Usability • JavaScript Ground • JavaScript
+              Fördjupning • Dynamic Webbdevelopment • Grafic tools for UI •
+              Projects with agile methods <br />
               <br />
             </Text>
             <Divider
