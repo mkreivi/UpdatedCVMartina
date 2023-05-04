@@ -72,8 +72,8 @@ function EducationEng() {
             >
               Urval av kurser jag läste: <br />
               <br />
-              Grafisk kommunikation • Webbdesign • Mediekunskap •
-              Mediekommunikation • Medieproduktion • Medieteknik • Multimedia{" "}
+              Graphic communication • Webbdesign • Medie knowledge • Media
+              communication • Media production • Media tekniks • Multimedia{" "}
               <br />
               <br />
             </Text>
