@@ -62,7 +62,7 @@ function Education() {
             >
               IT/Media programmet på Hulebäcksgymnasiet i Mölnlycke
             </Text>
-            <Text fontSize="20px">Aug 2022 - Maj 2024</Text>
+            <Text fontSize="20px">Aug 2005 - May 2008</Text>
             <Text
               className="CoursesEducation"
               p="10px"
