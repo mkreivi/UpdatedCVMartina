@@ -61,9 +61,9 @@ function EducationEng() {
               mb="0"
               textAlign="center"
             >
-              IT/Media programmet på Hulebäcksgymnasiet i Mölnlycke
+              IT/Media programmet at Hulebäcksgymnasiet in Mölnlycke
             </Text>
-            <Text fontSize="20px">Aug 2022 - Maj 2024</Text>
+            <Text fontSize="20px">Aug 2005 - June 2008</Text>
             <Text
               className="CoursesEducation"
               p="10px"
