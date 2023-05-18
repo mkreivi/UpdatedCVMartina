@@ -61,8 +61,8 @@ function Portfolio() {
                   Userbased platform - Group Assignment
                 </Heading>
                 <Text py="2">
-                  FoxTales - En användarbaserad plattform där användare kan
-                  signa upp, logga in och publicera textbaserade inlägg.
+                  FoxTales - A userbased platform where a user can sign up, log
+                  in and publish textbased content.
                 </Text>
                 <Text py="1">April 2023</Text>
               </CardBody>
