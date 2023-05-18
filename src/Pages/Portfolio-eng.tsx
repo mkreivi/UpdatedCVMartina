@@ -55,10 +55,10 @@ function Portfolio() {
                   bg="#5e76bf"
                   color="#F5F5F5"
                 >
-                  Dynamisk webbutveckling
+                  Dynamic Webbdevelopment
                 </Button>
                 <Heading mt="10px" size="md">
-                  Användarbaserad plattform - Grupparbete
+                  Userbased platform - Group Assignment
                 </Heading>
                 <Text py="2">
                   FoxTales - En användarbaserad plattform där användare kan
