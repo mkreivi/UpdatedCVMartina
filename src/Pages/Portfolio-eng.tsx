@@ -68,7 +68,7 @@ function Portfolio() {
               </CardBody>
               <CardFooter>
                 <Button variant="solid" bg="#494E5F" color="#F5F5F5">
-                  Se mer
+                  More
                 </Button>
               </CardFooter>
             </Stack>
@@ -88,20 +88,20 @@ function Portfolio() {
                   bg="#B06CC8"
                   color="#F5F5F5"
                 >
-                  JavaScript Fördjupning
+                  JavaScript 2
                 </Button>
                 <Heading mt="10px" size="md">
-                  Webbshopp - Grupparbete
+                  Webbshop - Group Assignment
                 </Heading>
                 <Text py="2">
-                  Skolprojekt där vi fick i uppgift att skapa en webbshop med
-                  valfritt innehåll. Vi skapade smyckesshoppen MAJT.
+                  Scholprojekt where we created a webbshop with jewllerys. We
+                  created MAJT.
                 </Text>
                 <Text py="1">April 2023</Text>
               </CardBody>
               <CardFooter>
                 <Button variant="solid" bg="#494E5F" color="#F5F5F5">
-                  Se mer
+                  More
                 </Button>
               </CardFooter>
             </Stack>
