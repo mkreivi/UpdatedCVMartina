@@ -121,10 +121,10 @@ function Portfolio() {
                   bg="#B06CC8"
                   color="#F5F5F5"
                 >
-                  JavaScript Fördjupning
+                  JavaScript 2
                 </Button>
                 <Heading mt="10px" size="md">
-                  Miniprojekt - Grupparbete
+                  Miniproject - Group Assignment
                 </Heading>
                 <Text py="2">
                   Jokester - Skolprojekt där vi fick i uppgift att skapa en
