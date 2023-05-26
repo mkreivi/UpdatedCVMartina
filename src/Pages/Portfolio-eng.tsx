@@ -127,14 +127,14 @@ function Portfolio() {
                   Miniproject - Group Assignment
                 </Heading>
                 <Text py="2">
-                  Jokester - Skolprojekt där vi fick i uppgift att skapa en
-                  webb-app. Vår app bygger på ett skämt API.
+                  Jokester - Group assignment where we wehere to create a
+                  webb-application. Our app is built on a joke API.
                 </Text>
                 <Text py="1">Mars 2023</Text>
               </CardBody>
               <CardFooter>
                 <Button variant="solid" bg="#494E5F" color="#F5F5F5">
-                  Se mer
+                  More
                 </Button>
               </CardFooter>
             </Stack>
