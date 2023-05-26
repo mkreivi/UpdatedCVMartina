@@ -154,14 +154,14 @@ function Portfolio() {
                   bg="#cd5b9f"
                   color="#F5F5F5"
                 >
-                  JavaScript Grund
+                  JavaScript Ground
                 </Button>
                 <Heading mt="10px" size="md">
-                  Skapa ett spel - Grupparbete
+                  Create a game - Group Assignment
                 </Heading>
                 <Text py="2">
-                  Slutprojekt i kursen JavaScript Grund där jag tillsammans med
-                  4 klasskamrater skapat ett spel.
+                  Final project in the JavaScript Ground course. Together with 4
+                  classmates we created a game called Take ´n Bake.
                 </Text>
                 <Text py="1">November 2022</Text>
               </CardBody>
