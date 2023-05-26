@@ -167,7 +167,7 @@ function Portfolio() {
               </CardBody>
               <CardFooter>
                 <Button variant="solid" bg="#494E5F" color="#F5F5F5">
-                  Se mer
+                  More
                 </Button>
               </CardFooter>
             </Stack>
@@ -187,10 +187,10 @@ function Portfolio() {
                   bg="#cd5b9f"
                   color="#F5F5F5"
                 >
-                  JavaScript Grund
+                  JavaScript Ground
                 </Button>
                 <Heading mt="10px" size="md">
-                  Interaktivt CV
+                  Interactivtive CV
                 </Heading>
                 <Text py="2">
                   Skolprojekt där jag fick i uppgift att skapa en hemsida om mig
