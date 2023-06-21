@@ -39,7 +39,7 @@ function StartPage() {
               justifyContent="space-between"
               fontStyle="italic"
             >
-              Studerar FrontEnd Development på Medieinstitutet i Göteborg
+              Studerar Front End Development på Medieinstitutet i Göteborg
               <br />
               <br />
               "Jag är en positiv, nyfiken och strukturerad medarbetare <br />
