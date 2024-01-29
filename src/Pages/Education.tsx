@@ -15,7 +15,7 @@ function Education() {
             p="20px"
             mx="auto"
           >
-            Utbildning
+            Eduction
           </Text>
           <Flex
             flexDirection="column"
