@@ -31,8 +31,8 @@ function Education() {
               bg="#F5F5F5"
               textAlign="center"
             >
-              Studerar FrontEnd Development på Medieinstitutet i Göteborg
-              <Text fontSize="20px">Aug 2022 - Maj 2024</Text>
+              FrontEnd Development student at Medieinstitutet in Gothenburg
+              <Text fontSize="20px">Aug 2022 - May 2024</Text>
             </Text>
             <Text
               className="CoursesEducation"
