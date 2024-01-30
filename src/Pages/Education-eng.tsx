@@ -61,7 +61,7 @@ function EducationEng() {
               mb="0"
               textAlign="center"
             >
-              IT/Media programmet at Hulebäcksgymnasiet in Mölnlycke
+              IT/Media at Hulebäcksgymnasiet in Mölnlycke
             </Text>
             <Text fontSize="20px">Aug 2005 - June 2008</Text>
             <Text
