@@ -41,7 +41,7 @@ function EducationEng() {
               m="0px, 30px"
               textAlign="center"
             >
-              Cleard courses when i start my LIA in september 2024 <br />
+              Finished courses when i start my LIA in september 2024 <br />
               <br />
               HTML/CSS • UX/Usability • JavaScript Ground • JavaScript
               Fördjupning • Dynamic Webbdevelopment • Grafic tools for UI •
