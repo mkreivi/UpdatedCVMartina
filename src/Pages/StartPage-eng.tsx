@@ -43,9 +43,9 @@ function StartPageEng() {
               Gothenburg
               <br />
               <br />
-              "Jag är en positiv, nyfiken och strukturerad medarbetare <br />
-              som älskar att anpassa och modernisera webbplatser <br />
-              för att form och funktion ska tilltala användaren!"
+              "I'm a positive , curious and well structured co-worker <br />
+              who loves to adapt and modernize webbsites and apps <br />
+              to make form and function appeal and easy to use for the user!"
             </Text>
             <Box mr="50px" className="ThisOne">
               <Image
