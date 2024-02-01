@@ -15,7 +15,7 @@ function Education() {
             p="20px"
             mx="auto"
           >
-            Eduction
+            Studier
           </Text>
           <Flex
             flexDirection="column"
@@ -31,7 +31,7 @@ function Education() {
               bg="#F5F5F5"
               textAlign="center"
             >
-              FrontEnd Development student at Medieinstitutet in Gothenburg
+              FrontEnd Development student på Medieinstitutet in Gothenburg
               <Text fontSize="20px">Aug 2022 - May 2024</Text>
             </Text>
             <Text
