@@ -21,7 +21,7 @@ function StartPageEng() {
             alignItems="center"
             p="20px"
           >
-            Välkommen
+            Welcome
           </Text>
           <Flex
             className="TextAndPictureTogether"
@@ -39,7 +39,8 @@ function StartPageEng() {
               justifyContent="space-between"
               fontStyle="italic"
             >
-              Studerar Front End Development på Medieinstitutet i Göteborg
+              Currently studying Front End Development at Medieinstitutet in
+              Gothenburg
               <br />
               <br />
               "Jag är en positiv, nyfiken och strukturerad medarbetare <br />
