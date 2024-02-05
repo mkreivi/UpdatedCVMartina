@@ -106,7 +106,7 @@ function StartPageEng() {
               fontStyle="italic"
               textAlign="right"
             >
-              Varför FrontEnd Development?
+              Why FrontEnd Development?
               <br />
               <br />
               Jag har alltid älskat att skapa och vara kreativ. Under gymnasiet
