@@ -114,11 +114,11 @@ function StartPageEng() {
               web development. This has been lying around and the dream of a day
               being able to work with this grew bigger. <br />
               <br />
-              Efter närmare 15 år inom butik och restaurang hittade jag min
-              drömutbildning, FrontEnd Developer på Medieinstitutet i Göteborg.
-              Nu får jag dagligen skapa, utveckla och modernisera webbsidor och
-              appar och ser fram emot att snart komma ut och arbeta med detta på
-              riktigt! TEST
+              After nearly 15 years in service and restaurants, I found my dream
+              education, FrontEnd Developer at the Media Institute in
+              Gothenburg. Nu får jag dagligen skapa, utveckla och modernisera
+              webbsidor och appar och ser fram emot att snart komma ut och
+              arbeta med detta på riktigt! TEST
             </Text>
           </Flex>
         </Text>
