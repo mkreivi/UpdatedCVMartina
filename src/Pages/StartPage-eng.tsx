@@ -111,8 +111,8 @@ function StartPageEng() {
               <br />
               I have always loved creating and being creative! During high
               school in 2005-2008 I read the IT/Media program and was hooked on
-              web development. Detta har legat och grott och drömmen om att en
-              dag kunna arbeta med detta växte sig större. <br />
+              web development. This has been lying around and the dream of a day
+              being able to work with this grew bigger. <br />
               <br />
               Efter närmare 15 år inom butik och restaurang hittade jag min
               drömutbildning, FrontEnd Developer på Medieinstitutet i Göteborg.
