@@ -109,9 +109,9 @@ function StartPageEng() {
               Why FrontEnd Development?
               <br />
               <br />
-              Jag har alltid älskat att skapa och vara kreativ. Under gymnasiet
-              år 2005-2008 läste jag IT/Media programmet och fastnade för
-              webbutveckling. Detta har legat och grott och drömmen om att en
+              I have always loved creating and being creative! During high
+              school in 2005-2008 I read the IT/Media program and was hooked on
+              web development. Detta har legat och grott och drömmen om att en
               dag kunna arbeta med detta växte sig större. <br />
               <br />
               Efter närmare 15 år inom butik och restaurang hittade jag min
