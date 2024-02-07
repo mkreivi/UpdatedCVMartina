@@ -116,9 +116,9 @@ function StartPageEng() {
               <br />
               After nearly 15 years in service and restaurants, I found my dream
               education, FrontEnd Developer at the Media Institute in
-              Gothenburg. Nu får jag dagligen skapa, utveckla och modernisera
-              webbsidor och appar och ser fram emot att snart komma ut och
-              arbeta med detta på riktigt! TEST
+              Gothenburg. Now I get to create, develop and modernize websites
+              and apps every day and look forward to coming out soon and work on
+              this for real! TEST
             </Text>
           </Flex>
         </Text>
