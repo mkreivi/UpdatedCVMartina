@@ -45,6 +45,8 @@ function Education() {
               HTML/CSS • UX/Usability • JavaScript Grund • JavaScript
               Fördjupning • Dynamisk Webbutveckling • Grafiska verktyg för
               gränssnittsdesign • Projekt med agila metoder <br />
+              Två perioder av LIA (praktik) på Succé Kommunikation 10 veckor +
+              16 veckor.
               <br />
             </Text>
             <Divider
