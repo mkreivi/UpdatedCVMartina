@@ -46,6 +46,9 @@ function EducationEng() {
               HTML/CSS • UX/Usability • JavaScript Ground • JavaScript
               Fördjupning • Dynamic Webbdevelopment • Grafic tools for UI •
               Projects with agile methods <br />
+              Two periods of LIA (internship) at Succé Kommunikation 10 weeks +
+              16 weeks.
+              <br />
               <br />
             </Text>
             <Divider
