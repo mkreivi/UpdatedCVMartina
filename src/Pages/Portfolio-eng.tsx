@@ -187,7 +187,7 @@ function Portfolio() {
                   bg="#cd5b9f"
                   color="#F5F5F5"
                 >
-                  JavaScript Ground
+                  JavaScript Ground course
                 </Button>
                 <Heading mt="10px" size="md">
                   Interactivtive CV
