@@ -193,9 +193,9 @@ function Portfolio() {
                   Interactivtive CV
                 </Heading>
                 <Text py="2">
-                  Skolprojekt där jag fick i uppgift att skapa en hemsida om mig
-                  själv i form av ett interaktivt CV som även innehåller projekt
-                  jag gjort.
+                  Schoolproject where I got the assignment to create a webbsite
+                  about me i form av ett interactivt CV som även innehåller
+                  projekt jag gjort.
                 </Text>
                 <Text py="1">November 2022</Text>
               </CardBody>
