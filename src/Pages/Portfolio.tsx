@@ -48,14 +48,15 @@ function Portfolio() {
               h="266px"
             />
             <Stack>
+              {/* FILMFLIX */}
               <CardBody>
                 <Button
                   borderRadius="20px"
                   variant="solid"
-                  bg="#5e76bf"
+                  bg="#8AC77B"
                   color="#F5F5F5"
                 >
-                  Dynamisk webbutveckling
+                  Arbetsmetodik för utvecklare
                 </Button>
                 <Heading mt="10px" size="md">
                   Användarbaserad plattform - Grupparbete
@@ -81,6 +82,7 @@ function Portfolio() {
               h="266px"
             />
             <Stack>
+              {/* FOX TALES */}
               <CardBody>
                 <Button
                   borderRadius="20px"
