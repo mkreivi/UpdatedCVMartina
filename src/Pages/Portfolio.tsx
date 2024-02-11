@@ -43,7 +43,7 @@ function Portfolio() {
           <Card m="10px" variant="outline">
             <Image
               p="10px"
-              src="src/assets/FoxTalesB.png"
+              src="src/assets/FilmFlix.png"
               objectFit="cover"
               h="266px"
             />
@@ -59,11 +59,12 @@ function Portfolio() {
                   Arbetsmetodik för utvecklare
                 </Button>
                 <Heading mt="10px" size="md">
-                  Användarbaserad plattform - Grupparbete
+                  Testning - Grupparbete
                 </Heading>
                 <Text py="2">
-                  FoxTales - En användarbaserad plattform där användare kan
-                  signa upp, logga in och publicera textbaserade inlägg.
+                  FilmFlix - En filmsida, likande Netflix med fokus på testning.
+                  Fokuset låg på att skriva enhetstester samt hålla ett bra
+                  arbetsflöde.
                 </Text>
                 <Text py="1">April 2023</Text>
               </CardBody>
