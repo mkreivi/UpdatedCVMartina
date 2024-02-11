@@ -41,6 +41,42 @@ function Portfolio() {
           mb={["20px", 0]}
         >
           <Card m="10px" variant="outline">
+            {/* BELLYBUN */}
+            <Image
+              p="10px"
+              src="src/assets/.png" // Byt bild här!
+              objectFit="cover"
+              h="266px"
+            />
+            <Stack>
+              <CardBody>
+                <Button
+                  borderRadius="20px"
+                  variant="solid"
+                  bg="#DB3E64"
+                  color="#F5F5F5"
+                >
+                  EXAMENSARBETE
+                </Button>
+                <Heading mt="10px" size="md">
+                  Eamensarbete - Grupparbete
+                </Heading>
+                <Text py="2">
+                  BellyBun - Vi valde att för första gången skapa en app. En
+                  gravidietsapp där man kan följa hela graviditeten vecka för
+                  vecka.
+                </Text>
+                <Text py="1">December-Januari 2024</Text>
+              </CardBody>
+              <CardFooter>
+                <Button variant="solid" bg="#494E5F" color="#F5F5F5">
+                  Se mer
+                </Button>
+              </CardFooter>
+            </Stack>
+          </Card>
+          <Card m="10px" variant="outline">
+            {/* FILMFLIX */}
             <Image
               p="10px"
               src="src/assets/FilmFlix.png"
@@ -48,7 +84,6 @@ function Portfolio() {
               h="266px"
             />
             <Stack>
-              {/* FILMFLIX */}
               <CardBody>
                 <Button
                   borderRadius="20px"
@@ -66,7 +101,7 @@ function Portfolio() {
                   Fokuset låg på att skriva enhetstester samt hålla ett bra
                   arbetsflöde.
                 </Text>
-                <Text py="1">April 2023</Text>
+                <Text py="1">Dec 2023</Text>
               </CardBody>
               <CardFooter>
                 <Button variant="solid" bg="#494E5F" color="#F5F5F5">
@@ -75,6 +110,7 @@ function Portfolio() {
               </CardFooter>
             </Stack>
           </Card>
+          {/* FOX TALES */}
           <Card m="10px" variant="outline">
             <Image
               p="10px"
@@ -83,7 +119,6 @@ function Portfolio() {
               h="266px"
             />
             <Stack>
-              {/* FOX TALES */}
               <CardBody>
                 <Button
                   borderRadius="20px"
@@ -117,6 +152,7 @@ function Portfolio() {
               h="266px"
             />
             <Stack>
+              {/* Webbshop MAJT */}
               <CardBody>
                 <Button
                   borderRadius="20px"
@@ -150,6 +186,7 @@ function Portfolio() {
               h="266px"
             />
             <Stack>
+              {/* JOKESTER */}
               <CardBody>
                 <Button
                   borderRadius="20px"
@@ -183,6 +220,7 @@ function Portfolio() {
               h="266px"
             />
             <Stack>
+              {/* Take n Bake */}
               <CardBody>
                 <Button
                   borderRadius="20px"
