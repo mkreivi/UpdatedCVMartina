@@ -117,7 +117,7 @@ function StartPage() {
               drömutbildning, FrontEnd Developer på Medieinstitutet i Göteborg.
               Nu får jag dagligen skapa, utveckla och modernisera webbsidor och
               appar och ser fram emot att snart komma ut och arbeta med detta på
-              riktigt! TEST
+              riktigt!
             </Text>
           </Flex>
         </Text>
