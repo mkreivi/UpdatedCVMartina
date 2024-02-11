@@ -76,6 +76,39 @@ function Portfolio() {
           <Card m="10px" variant="outline">
             <Image
               p="10px"
+              src="src/assets/FoxTalesB.png"
+              objectFit="cover"
+              h="266px"
+            />
+            <Stack>
+              <CardBody>
+                <Button
+                  borderRadius="20px"
+                  variant="solid"
+                  bg="#5e76bf"
+                  color="#F5F5F5"
+                >
+                  Dynamisk webbutveckling
+                </Button>
+                <Heading mt="10px" size="md">
+                  Användarbaserad plattform - Grupparbete
+                </Heading>
+                <Text py="2">
+                  FoxTales - En användarbaserad plattform där användare kan
+                  signa upp, logga in och publicera textbaserade inlägg.
+                </Text>
+                <Text py="1">April 2023</Text>
+              </CardBody>
+              <CardFooter>
+                <Button variant="solid" bg="#494E5F" color="#F5F5F5">
+                  Se mer
+                </Button>
+              </CardFooter>
+            </Stack>
+          </Card>
+          <Card m="10px" variant="outline">
+            <Image
+              p="10px"
               src="src/assets/MAJTWebbshop.png"
               objectFit="cover"
               h="266px"
