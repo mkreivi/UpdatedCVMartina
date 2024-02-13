@@ -41,6 +41,41 @@ function Portfolio() {
           mb={["20px", 0]}
         >
           <Card m="10px" variant="outline">
+            {/* BELLYBUN */}
+            <Image
+              p="10px"
+              src="src/assets/.png" // Byt bild här!
+              objectFit="cover"
+              h="266px"
+            />
+            <Stack>
+              <CardBody>
+                <Button
+                  borderRadius="20px"
+                  variant="solid"
+                  bg="#DB3E64"
+                  color="#F5F5F5"
+                >
+                  EXAMINATION PROJECT
+                </Button>
+                <Heading mt="10px" size="md">
+                  Examination - Group Assignment
+                </Heading>
+                <Text py="2">
+                  BellyBun - We chose to for the first time create an app. A
+                  pregnancyapp where the user can follow a pregnancy week by
+                  week.
+                </Text>
+                <Text py="1">December-January 2024</Text>
+              </CardBody>
+              <CardFooter>
+                <Button variant="solid" bg="#494E5F" color="#F5F5F5">
+                  More
+                </Button>
+              </CardFooter>
+            </Stack>
+          </Card>
+          <Card m="10px" variant="outline">
             <Image
               p="10px"
               src="src/assets/FoxTalesB.png"
