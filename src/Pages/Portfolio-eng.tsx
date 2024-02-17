@@ -262,7 +262,7 @@ function Portfolio() {
                 </Heading>
                 <Text py="2">
                   Skolprojekt in the course UX/UI where I customized the UX on
-                  Lisebergs website under halloween 2022 i Figma.
+                  Lisebergs website under halloween 2022 in Figma.
                 </Text>
                 <Text py="1">Oktober 2022</Text>
               </CardBody>
