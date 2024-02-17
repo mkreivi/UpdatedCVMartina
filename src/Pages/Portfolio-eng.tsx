@@ -261,8 +261,8 @@ function Portfolio() {
                   Gränssnittsanalys - Förbättra UX/UI
                 </Heading>
                 <Text py="2">
-                  Skolprojekt i kursen UX/UI där jag förbättrat UX:et på
-                  Lisebergs hemsida under halloween 2022 i Figma.
+                  Skolprojekt in the course UX/UI where I customized the UX on
+                  Lisebergs website under halloween 2022 i Figma.
                 </Text>
                 <Text py="1">Oktober 2022</Text>
               </CardBody>
