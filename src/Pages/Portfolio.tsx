@@ -59,7 +59,7 @@ function Portfolio() {
                   EXAMENSARBETE
                 </Button>
                 <Heading mt="10px" size="md">
-                  Eamensarbete - Grupparbete
+                  Examensarbete - Grupparbete
                 </Heading>
                 <Text py="2">
                   BellyBun - Vi valde att för första gången skapa en app. En
