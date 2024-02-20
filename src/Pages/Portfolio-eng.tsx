@@ -291,7 +291,7 @@ function Portfolio() {
                   HTML/CSS
                 </Button>
                 <Heading mt="10px" size="md">
-                  Modernisera en hemsida - Grupparbete
+                  Modernize a hemsida - Grupparbete
                 </Heading>
                 <Text py="2">
                   Skolprojekt där jag tillsammans med två klasskamrater
