@@ -268,7 +268,7 @@ function Portfolio() {
               </CardBody>
               <CardFooter>
                 <Button variant="solid" bg="#494E5F" color="#F5F5F5">
-                  Se mer
+                  More
                 </Button>
               </CardFooter>
             </Stack>
